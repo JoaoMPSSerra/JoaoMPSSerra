@@ -9,7 +9,6 @@ layout: home
   <article>
     <h2>
         {{ post.title }}
-      </a>
     </h2>
     {{ post.content }}
   </article>
