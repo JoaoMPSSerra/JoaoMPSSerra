@@ -13,6 +13,5 @@ Tubular sensor integrated into a PCB, which is itself inserted into a ZIF socket
 {: .fig-caption}
 
 ![Figure 2](/JoaoMPSSerra/assets/starchip2.png){: width="100%" }
-In the acquired data, peaks are detected with a frequency matching that of the droplets passing. This is highlighted in the Fourier transform seen in the right plot, where a peak at f ~ 0.04 Hz (the frequency of
-the droplets) is visible.
+In the acquired data, peaks are detected with a frequency matching that of the droplets passing. This is highlighted in the Fourier transform seen in the right plot, where a peak at f ~ 0.04 Hz (the frequency of the droplets) is visible.
 {: .fig-caption}
