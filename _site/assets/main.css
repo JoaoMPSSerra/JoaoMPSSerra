@@ -651,7 +651,8 @@ table td {
 }
 
 .fig-caption {
-  text-align: justify;
+    text-align: center;
+    font-style: italic;
 }
 
 /*# sourceMappingURL=main.css.map */
