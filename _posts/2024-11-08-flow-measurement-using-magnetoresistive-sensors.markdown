@@ -11,10 +11,10 @@ categories: portfolio
 
 <figure>
     <img src="/JoaoMPSSerra/assets/starchip1.jpg" alt="Figure 1">
-    <figcaption class="figcaption">Tubular sensor integrated into a PCB, which is itself inserted into a ZIF socket for data acquisition. Droplets of magnetic particles are formed in the tube, and the sensor changes its resistance as these pass, allowing flow measurements.</figcaption>
+    <figcaption>Tubular sensor integrated into a PCB, which is itself inserted into a ZIF socket for data acquisition. Droplets of magnetic particles are formed in the tube, and the sensor changes its resistance as these pass, allowing flow measurements.</figcaption>
 </figure>
 
 <figure>
     <img src="/JoaoMPSSerra/assets/starchip2.png" alt="Figure 2" style="width: 100%;">
-    <figcaption class="figcaption">In the acquired data, peaks are detected with a frequency matching that of the droplets passing. This is highlighted in the Fourier transform seen in the right plot, where a peak at f ~ 0.04 Hz (the frequency of the droplets) is visible.</figcaption>
+    <figcaption>In the acquired data, peaks are detected with a frequency matching that of the droplets passing. This is highlighted in the Fourier transform seen in the right plot, where a peak at f ~ 0.04 Hz (the frequency of the droplets) is visible.</figcaption>
 </figure>
