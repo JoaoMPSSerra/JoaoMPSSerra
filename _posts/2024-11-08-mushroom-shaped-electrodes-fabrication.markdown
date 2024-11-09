@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Flow measurement using magnetoresistive sensors"
+title:  "Mushroom-shaped electrodes fabrication"
 date:   2024-11-08 22:24:05 +0000
 categories: portfolio
 ---
