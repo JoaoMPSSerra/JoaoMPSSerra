@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c6a37f5e-ef0e-472f-8800-39d5c21391e9)---
+---
 layout: post
 title:  "Flow measurement using magnetoresistive sensors"
 date:   2024-11-08 22:24:04 +0000
