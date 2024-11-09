@@ -11,7 +11,7 @@ Magnetoresistive sensors detect magnetic fields through changes in electrical re
 ![Figure 1](/JoaoMPSSerra/assets/starchip1.jpg)
 Tubular sensor integrated into a PCB, which is itself inserted into a ZIF socket for data acquisition. Droplets of magnetic particles are formed in the tube, and the sensor changes its resistance as these pass, allowing flow measurements.
 
-![Figure 2](/JoaoMPSSerra/assets/starchip2.png){: width="800" }
+![Figure 2](/JoaoMPSSerra/assets/starchip2.png)
 ![Figure 2](/JoaoMPSSerra/assets/starchip2.png){: width="100%" }
 In the acquired data, peaks are detected with a frequency matching that of the droplets passing. This is highlighted in the Fourier transform seen in the right plot, where a peak at f ~ 0.04 Hz (the frequency of 
 the droplets) is visible.
