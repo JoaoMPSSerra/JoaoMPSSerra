@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2024-11-08 22:24:03 +0000
-categories: jekyll update
+title:  "Flow measurement using magnetoresistive sensors"
+date:   2024-11-08 22:24:04 +0000
+categories: portfolio
 ---
 
 Magnetoresistive sensors detect magnetic fields through changes in electrical resistance, presenting a potential tool for tracking magnetic particle flow in fluids. I was asked to provide a short contribution to a project that aimed to leverage these sensors on flexible substrates for fluid flow measurement. My role involved using sensors fabricated by previous researchers to record magnetic fields as droplets containing magnetic particles moved through a fluidic channel, with the goal of quantifying the flow of the droplets. This project required that I performed adjustments to the measurement set-up, as well as data acquisition and treatment. This topic was beyond my typical expertise, requiring extensive communication with colleagues from different specialities that could provide insight into their domains. Through in-depth analysis of the acquired data, I detected periodic signals correlating with the droplet flow rate, validating the devices fabricated in the context of the project.
