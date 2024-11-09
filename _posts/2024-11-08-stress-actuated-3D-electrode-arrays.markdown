@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Stress-actuated 3D electrode arrays"
-date:   2024-11-08 22:24:02 +0000
+date:   2024-11-08 22:24:03 +0000
 categories: portfolio
 ---
 
