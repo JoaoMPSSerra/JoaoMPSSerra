@@ -21,3 +21,7 @@ Organic crystals, particularly rubrene, offer exceptional light-detection capabi
     <img src="/JoaoMPSSerra/assets/Opelt2.png" alt="Figure 2" style="width: 100%;">
     <figcaption>The photoresponse (generated current as a function of incident optical power) of patterned crystals is comparable to that of unpatterned crystals with similar areas. The data was acquired and analysed by software written by me.</figcaption>
 </figure>
+
+
+
+
