@@ -5,7 +5,7 @@ date:   2024-11-08 22:24:02 +0000
 categories: portfolio
 ---
 
-<figure>
+<figure class="text-justify">
     <img src="/JoaoMPSSerra/assets/GSHeader.png" alt="3D microstructures with Grayscale Lithography" style="width: 80%;">
 </figure>
 
