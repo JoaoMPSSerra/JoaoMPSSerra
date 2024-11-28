@@ -21,3 +21,7 @@ In the context of neuronal activity recording, planar microelectrodes offer long
     <img src="/JoaoMPSSerra/assets/Mushrooms2.png" alt="Figure 2" style="width: 100%;">
     <figcaption>SEM imaging of the mushroom-shaped electrodes grown through the project. While I was fully responsible for fabrication of the planar arrays, electrodeposition required collaboration with a second laboratory.</figcaption>
 </figure>
+
+
+
+
