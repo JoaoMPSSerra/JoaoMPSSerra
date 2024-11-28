@@ -31,7 +31,7 @@ github_username:  ""
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 minimal_mistakes_skin: "dirt"
 plugins:
-  #- jekyll-feed
+  - jekyll-feed
   - jekyll-include-cache
 
 logo: "/assets/PhotoRound.png"
