@@ -14,3 +14,7 @@ My contributions include data analysis and treatment, as well as writing most of
     <img src="/JoaoMPSSerra/assets/Thyroid1.png" alt="Figure 1" style="width: 100%;">
     <figcaption>The emission spectra of multiple thyroid and parathyroid samples present a peak at 711 nm which is consistently more intense in parathyroid tissue, a promising marker for intraoperative identification..</figcaption>
 </figure>
+
+
+
+
