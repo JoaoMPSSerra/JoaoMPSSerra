@@ -34,7 +34,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
-logo: "/assets/GS1.png"
+logo: "/assets/PhotoRound.png"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
