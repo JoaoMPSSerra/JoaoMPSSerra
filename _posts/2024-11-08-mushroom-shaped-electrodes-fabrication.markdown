@@ -5,6 +5,10 @@ date:   2024-11-08 22:24:05 +0000
 categories: portfolio
 ---
 
+<figure>
+    <img src="/JoaoMPSSerra/assets/MushroomsHeader.png" alt="Mushroom-shaped electrodes fabrication" style="width: 100%;">
+</figure>
+
 <p class="text-justify">
 In the context of neuronal activity recording, planar microelectrodes offer long-term recordings in hundreds of sites simultaneously. However, the planar geometry lacks the efficiency of intracellular recording methods. Introducing 3D geometries, such as “mushroom-shaped” electrodes grown via electrodeposition, significantly enhances electrical coupling between neurons and electrodes. I led the full fabrication of mushroom-shaped electrode arrays, employing a variety of microfabrication techniques: magnetron sputtering of conductive materials, chemical vapor deposition of insulating layers, optical lithography for pattern definition, and reactive ion etching for pattern transfer. I had complete autonomy over process development, from defining the process flow and optimizing conditions to operating all planar microfabrication tools. I also took steps to characterize the passivation layer and select its optimal composition. For electrodeposition and validation with neuronal recordings, I had to cooperate with various teams with multidisciplinary expertise. The project resulted in robust electrode arrays capable of neuronal activity recording, as well as a dedicated process flow for consistent, scalable device fabrication. </p>
 
