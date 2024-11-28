@@ -22,3 +22,8 @@ In the same context of achieving 3D microscale architectures without introducing
     <img src="/JoaoMPSSerra/assets/GS2.png" alt="Figure 2" style="width: 100%;">
     <figcaption>Profilometer measurement of the structure shown in the figure above, showing multiple well-defined steps in an SiO2 layer.</figcaption>
 </figure>
+
+
+
+
+
